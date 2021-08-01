@@ -10,6 +10,7 @@ public class GitTest {
         testLog();
         System.out.println("第三次提交");
         System.out.println("hot-fix第一次提交");
+        System.out.println("hot-fix");
         System.out.println("master");
     }
 
