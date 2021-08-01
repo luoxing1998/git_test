@@ -8,6 +8,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("测试git");
         testLog();
+        System.out.println("第三次提交");
     }
 
     public static void testLog(){
