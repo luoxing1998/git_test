@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("测试git");
         testLog();
         System.out.println("第三次提交");
+        System.out.println("hot-fix第一次提交");
     }
 
     public static void testLog(){
