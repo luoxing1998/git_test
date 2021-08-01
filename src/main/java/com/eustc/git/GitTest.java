@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("hot-fix第一次提交");
         System.out.println("hot-fix");
         System.out.println("master");
+        System.out.println("test pull");
     }
 
     public static void testLog(){
