@@ -23,6 +23,7 @@ public class GitTest {
         System.out.println("test push");
         System.out.println("test pull");
         System.out.println("再次测试test pull");
+        System.out.println("测试新分支：lx_testGit");
         testJSONObject();
     }
 
